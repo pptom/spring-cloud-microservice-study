@@ -1,6 +1,6 @@
-package com.itmuch.cloud.study.service;
+package com.itmuch.cloud.study.user.service;
 
-import com.itmuch.cloud.study.domain.User;
+import com.itmuch.cloud.study.user.domain.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;

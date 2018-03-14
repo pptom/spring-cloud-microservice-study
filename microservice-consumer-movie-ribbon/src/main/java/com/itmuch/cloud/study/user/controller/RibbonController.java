@@ -1,7 +1,7 @@
-package com.itmuch.cloud.study.controller;
+package com.itmuch.cloud.study.user.controller;
 
-import com.itmuch.cloud.study.domain.User;
-import com.itmuch.cloud.study.service.RibbonService;
+import com.itmuch.cloud.study.user.domain.User;
+import com.itmuch.cloud.study.user.service.RibbonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

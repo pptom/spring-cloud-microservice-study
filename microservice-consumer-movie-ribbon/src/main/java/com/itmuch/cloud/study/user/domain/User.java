@@ -1,4 +1,4 @@
-package com.itmuch.cloud.study.domain;
+package com.itmuch.cloud.study.user.domain;
 
 /**
  * @author: Mr Tom
