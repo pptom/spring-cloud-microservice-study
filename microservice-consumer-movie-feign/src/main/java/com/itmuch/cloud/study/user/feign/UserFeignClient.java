@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 /**
- * @author tom.tang
+ * @author Mr Tom
  * @date 2018/3/14
- * @email tom.tang@sainstore.com
+ * @email ptomjie@gmail.com
  * @description 使用@FeignClient("microservice-provider-user")注解绑定microservice-provider-user服务，还可以使用url参数指定一个URL。
  * @since 2018/3/14
  */

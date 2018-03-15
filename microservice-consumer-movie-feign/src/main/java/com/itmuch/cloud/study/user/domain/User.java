@@ -1,9 +1,9 @@
 package com.itmuch.cloud.study.user.domain;
 
 /**
- * @author tom.tang
+ * @author Mr Tom
  * @date 2018/3/14
- * @email tom.tang@sainstore.com
+ * @email ptomjie@gmail.com
  * @description
  * @since 2018/3/14
  */

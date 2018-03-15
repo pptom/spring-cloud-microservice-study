@@ -9,9 +9,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author tom.tang
+ * @author Mr Tom
  * @date 2018/3/15
- * @email tom.tang@sainstore.com
+ * @email ptomjie@gmail.com
  * @description 使用@EnableCircuitBreaker注解开启断路器功能
  * @since 2018/3/15
  */

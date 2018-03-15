@@ -9,9 +9,9 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author tom.tang
+ * @author Mr Tom
  * @date 2018/3/15
- * @email tom.tang@sainstore.com
+ * @email ptomjie@gmail.com
  * @description
  * @since 2018/3/15
  */

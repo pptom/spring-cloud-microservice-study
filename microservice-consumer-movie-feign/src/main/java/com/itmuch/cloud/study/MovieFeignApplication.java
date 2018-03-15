@@ -6,9 +6,9 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.netflix.feign.EnableFeignClients;
 
 /**
- * @author tom.tang
+ * @author Mr Tom
  * @date 2018/3/14
- * @email tom.tang@sainstore.com
+ * @email ptomjie@gmail.com
  * @description 使用@EnableFeignClients开启Feign
  * @since 2018/3/14
  */
