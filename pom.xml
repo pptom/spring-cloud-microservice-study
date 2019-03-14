@@ -18,6 +18,7 @@
         <module>microservice-hystrix-turbine</module>
         <module>microservice-config-server</module>
         <module>microservice-config-client</module>
+        <module>microservice-api-gateway</module>
     </modules>
     <packaging>pom</packaging>
 
